@@ -1,0 +1,269 @@
+,tweet,label
+394,"['baca', 'a', 'benci', 'pikir', 'liar', 'vaksinasi', 'covid', 'hormat', 'sempat', 'rasa', 'sulit', 'negeri']",positif
+881,"['pesan', 'grace nat', 'terkat', 'pandemi', 'covid']",positif
+358,"['disiplin', 'warga', 'putus', 'mata', 'rantai', 'covid', 'unit', 'lengkap', 'polsek', 'melaya', 'polres', 'jembrana', 'laksana', 'giat', 'rutin', 'tingkat']",negatif
+367,"['bima', 'arya', 'tarung', 'lawan', 'covid', 'pns', 'takut', 'silah', 'minggir', 'm', 'lawancovid', 'satgascovid', 'ingatpesanibu', 'pakaimasker', 'jagajarak', 'makaimasker', 'jagajarakhindarikerumunan', 'hindarikerumanan', 'cucitangan', 'cucitanganpakaisabun']",positif
+259,"['lelah', 'pandemi', 'covid', 'dampak', 'pandemi', 'uras', 'energi', 'psikologi', 'mancantumkan', 'nama', 'buku', 'buku', 'kumpul', 'indepth', 'reporting', 'buku', 'tulis', 'kroyokan']",netral
+874,"['bintangpd', 'newsplatter', 'doa', 'kena', 'virus', 'covid', 'sembuh', 'fan', 'pulih', 'lkas', 'pulih', 'ibu', 'bang']",positif
+1202,"['republikaonline', 'partai', 'merah', 'partai', 'biru', 'afiliasi', 'sayap', 'kiri', 'sosialist', 'democrat', 'ccp', 'antifa', 'fasilitas', 'facebook', 'twitter', 'google', 'cnn', 'puppet', 'president', 'biden', 'kelompok', 'rekayasa', 'isis', 'nwo', 'lippo', 'gate', 'covid']",netral
+1220,"['pandemi', 'kampus', 'boleh', 'mahasiswa', 'ngajuin', 'uang', 'kuliah', 'ttp', 'dapetnya', 'uang', 'kuliah', 'gede', 'karna', 'kk', 'kerja', 'pensiun', 'pns', 'kali', 'beasiswa', 'covid', 'tolak', 'kerja', 'pensiun', 'pns']",positif
+900,"['tolak', 'tular', 'covid', 'ribet', 'rumit', 'tinggal']",positif
+710,"['pandemi', 'covid', 'adaptasi', 'new', 'normal', 'sll', 'disiplin', 'jaga', 'protokol', 'sehat', 'jaga', 'imun', 'jaga', 'sehat', 'klatenkeren', 'ganjarpranowo', 'provjateng']",positif
+783,"['sjpeace', 'plus', 'the', 'officer', 'tested', 'positif', 'for', 'covid', 'and', 'then', 'the', 'father', 'ended', 'up', 'contracting', 'it', 'since', 'none', 'of', 'them', 'follow', 'any', 'mask', 'guidelines', 'wrongly', 'detained', 'and', 'given', 'covid', 'death', 'sentence', 'without', 'any', 'explanation', 'or', 'crime', 'being', 'committed', 'america', 'explain']",positif
+477,"['kompascom', 'sakit', 'keluh', 'tanda', 'covid']",negatif
+76,"['putriok', 'msalahnya', 'mbak', 'test', 'rapid', 'jg', 'tuk', 'test', 'mbak', 'emg', 'beda', 'prcya', 'covid', 'tkut', 'test', 'pgn', 'test', 'tp', 'gt', 'halang', 'biaya']",negatif
+265,"['i', 'hope', 'we', 'all', 'have', 'good', 'health', 'mental', 'health', 'wealth', 'and', 'love', 'same', 'goes', 'to', 'all', 'those', 'families', 'that', 'have', 'lost', 'someone', 'due', 'to', 'covid', 'this', 'year', 'love', 'y', 'all', 'stay', 'safe', 'happynewyear']",positif
+904,"['data', 'vaksin', 'covid']",negatif
+677,"['polres', 'diri', 'laksana', 'tega', 'hukum', 'proktokol', 'sehat', 'covid', 'wilayah', 'hukum', 'polres', 'diri', 'pidpolreskediri', 'polreskediri', 'diri', 'polripromoter', 'jogojawatimur', 'jatimbermasker']",negatif
+1032,"['e', 'ss', 'abis', 'gubernur', 'jkt', 'gubernur', 'jatim', 'fix', 'covid', 'sakit', 'jabat', 'orang', 'kaya', 'tani', 'nelayan', 'kuli', 'dagang', 'pasar', 'kena', 'covid']",negatif
+618,"['sisi', 'masyarakat', 'presiden', 'joko', 'widodo', 'tingkat', 'disiplin', 'terap', 'protokol', 'sehat', 'kena', 'masker', 'jaga', 'jarak', 'rutin', 'cuci', 'tangan', 'anggap', 'remeh', 'sebar', 'covid', 'kawalpresidenjokowi']",netral
+591,"['skupb', 'menganaiisa', 'areajulid', 'solusi', 'korban', 'covid', 'nambah', 'trs', 'nularin', 'org', 'gmn']",positif
+715,"['wear', 'mask', 'against', 'covid', 'wear', 'mask', 'to', 'cover', 'ugly', 'face']",negatif
+415,"['sertifikat', 'cpob', 'bio', 'farma', 'layak', 'produksi', 'vaksin', 'covid', 'jokowi', 'lawan', 'pandemi']",positif
+306,"['optimisme', 'satgas', 'covid', 'pandemi', 'hilang', 'indonesia', 'indonesia']",positif
+912,"['anggota', 'polsek', 'tirtajaya', 'bripka', 'hadian', 'supriatna', 'laksana', 'giat', 'patroli', 'dialogis', 'himbauan', 'warga', 'patuh', 'protokol', 'sehat', 'cegah', 'sebar', 'covid', 'harap', 'bantu', 'jaga']",negatif
+78,"['iaridlo', 'jerryapr', 'ypramudya', 'fayruzrahma', 'kp', 'klitih', 'banget', 'umr', 'rendah', 'covid', 'udah', 'makan', 'teori', 'konspirasi', 'covid', 'hoax', 'gitu', 'boleh', 'mudik', 'wkwkwk', 'dah', 'ngakak']",negatif
+1084,"['roheiga', 'xurbiaxendless', 'iyasii', 'penuh', 'covid', 'suka', 'penuh', 'igd', 'rame', 'banget', 'jam', 'covid', 'gin', 'penuh']",negatif
+636,"['yendelapena', 'covid', 'city', 'bihhh']",positif
+771,"['resolusi', 'moga', 'mati', 'kena', 'covid']",netral
+1039,"['udah', 'serasa', 'satgas', 'covid', 'jarak', 'acara', 'kirim', 'data', 'statistik', 'covid', 'kirim', 'masker', 'sedia', 'pas', 'h', 'jaga', 'tamu', 'lupa', 'pakai', 'masker', 'ken', 'banget', 'acara', 'bahagia', 'cluster', 'covid', 'bismillah', 'moga', 'aman']",negatif
+467,"['tanggap', 'darurat', 'bencana', 'corona', 'virus', 'disease', 'covid', 'kabupaten', 'bantul', 'panjang', 'januari', 'coronavirus', 'jogja', 'yogyakarta']",positif
+486,"['sebenernya', 'konser', 'amal', 'covid', 'konser', 'orang', 'oleng', 'smtown live', 'wayv', 'taemin']",positif
+1065,"['terima', 'masyarakat', 'orang', 'habis', 'kena', 'covid', 'sulit']",negatif
+970,"['blasterholic', 'harap', 'moga', 'pribadi', 'ibadah', 'sehat', 'keluarga', 'orang', 'moga', 'covid', 'atas', 'normal', 'aamiin', 'resolusiblasterholic', 'yangbelangemangbeda', 'ngeblaaasstnyabeda']",positif
+534,"['last', 'year', 'wish', 'ni', 'kat', 'memory', 'fb', 'bam', 'covid', 'februari', 'jinx']",negatif
+1120,"['tema', 'daya', 'masyarakat', 'pandemi', 'covid', 'bas', 'tuju', 'bangun', 'lanjut', 'sdg', 's', 'januari', 'februari', 'lurah', 'tegalsari', 'camat', 'candisari', 'kota', 'semarang', 'dosen', 'bimbing', 'bagus', 'rahmanda', 's', 'h', 'm', 'h']",netral
+916,"['ajar', 'bgt', 'hujung', 'awall', 'papa', 'positif', 'covid', 'nyata', 'positif', 'karantina', 'rs', 'beda', 'papa', 'pas', 'karantina', 'dpt', 'kabar', 'papa', 'masuk', 'icu', 'sek', 'situ', 'bener', 'bener', 'uji', 'sabar', 'doa', 'allah']",positif
+660,"['covid', 'iku', 'incar', 'cilik', 'umkm', 'buruh', 'ajar', 'mahasiswa', 'jamaah', 'mangkane', 'gaoleh', 'dodol', 'gaoleh', 'sekolah', 'gaoleh', 'ibadah', 'covid', 'iku', 'incar', 'anake', 'jabat', 'seragam', 'karo', 'sogeh', 'mangkane', 'pilkada', 'aman', 'aparat', 'dangdut', 'wisatawan', 'aman', 'aneh', 'aneh', 'nigeria']",positif
+614,"['presiden', 'joko', 'widodo', 'jokowi', 'giat', 'perintah', 'salah', 'satu', 'gelar', 'vaksinasi', 'massal', 'covid']",positif
+722,"['sambut', 'presiden', 'jokowi', 'indonesia', 'bangkit', 'pandemi', 'covid', 'landa', 'negara', 'akibat', 'krisis', 'sehat', 'ekonomi', 'dunia', 'bangsa', 'indonesia', 'luput', 'coba', 'mudah']",negatif
+934,"['reposted', 'from', 'ditlantas bal', 'satgas', 'turjag', 'laksana', 'atur', 'tl', 'nyeri', 'pantau', 'arus', 'lalin', 'mancarli', 'lanjut', 'masker', 'guna', 'jalan', 'himbauan', 'prokes', 'cegah', 'covid']",netral
+49,"['polsek', 'banjaran', 'upaya', 'laku', 'operasi', 'yustisi', 'covid', 'pasca', 'ganti']",positif
+32,"['rektor', 'orang', 'lingkung', 'kampus', 'its', 'surabaya', 'papar', 'covid', 'sip']",negatif
+1112,"['jokowi', 'klaim', 'indonesia', 'terima', 'juta', 'vaksin', 'covid']",positif
+852,"['happy', 'new', 'year', 'to', 'all', 'my', 'friends', 'may', 'this', 'new', 'year', 'bring', 'in', 'peace', 'prosperity', 'and', 'happiness', 'in', 'all', 'your', 'life', 'may', 'this', 'year', 'help', 'us', 'overcome', 'the', 'covid', 'pandemic', 'and', 'lead', 'a', 'normal', 'life']",positif
+670,"['kali', 'negeri', 'gegara', 'covid', 'emang', 'negeri', 'gegara', 'duit']",netral
+1131,"['astronodd', 'orang', 'kebelet', 'nikah', 'gegara', 'covid', 'kali', '']",netral
+233,[],netral
+51,"['bts twt', 'bye', 'bye', 'covid', 'stay', 'healthy', 'guys']",positif
+583,"['jelang', 'ganti', 'bhabinkamtibmas', 'polsek', 'kasokandel', 'himbauan', 'cegah', 'covid']",netral
+1023,"['hakimrbg', 'coba', 'rapid', 'antigen', 'serologi', 'kim', 'igg', 'positif', 'covid', 'negatif', 'kemarin', 'covid', 'antibodi', 'udah', 'gue', 'kemarin', 'serologi', 'konfirmasi', 'gejala', 'aneh', 'gue', 'rasain']",negatif
+237,"['covid', 'unjung', 'candi', 'borobudur', 'turun', 'persen']",positif
+552,"['otoh', 'i', 'don', 'share', 'your', 'optimism', 'the', 'west', 'being', 'firmly', 'subjugated', 'to', 'the', 'deep', 'state', 'w', 'the', 'only', 'way', 'to', 'realistically', 'get', 'rid', 'of', 'it', 'a', 'french', 'revolution', 'or', 'october', 'revolution', 'which', 'will', 'not', 'be', 'easy', 'to', 'undertake', 'as', 'unternehmen', 'covid', 'by', 'the', 'think', 'tanks', 'is', 'demonstrating']",positif
+1334,"['minggu', 'kemaren', 'sakit', 'trus', 'dtg', 'klinik', 'dr', 'spesialis', 'pokok', 'situ', 'cek', 'darah', 'rontgen', 'toraks', 'gejala', 'covid', 'alhamdulillah', 'hasil', 'langsung', 'rujuk', 'rs', 'trombosit', 'k', 'normal', 'k']",positif
+643,"['doa', 'utama', 'moga', 'keluarga', 'saudara', 'sehat', 'rezeki', 'covid', 'hilang', 'bumi', 'amin']",negatif
+1297,"['giat', 'sambang', 'sosialisasi', 'adaptasi', 'biasa', 'akb', 'warga', 'masyarakat', 'desa', 'cikampek', 'timur', 'antisipasi', 'sakit', 'virus', 'corona', 'covid']",positif
+596,"['urvenice bitch', 'covid']",positif
+363,"['januari', 'juang', 'cegah', 'sebar', 'covid', 'kabupaten', 'wonosobo', 'kalikajar', 'wonosobo', 'jawa', 'puskesmas', 'kalikajar']",positif
+101,"['sebentar', 'sebentar', 'tetangga', 'dinyatain', 'positif', 'covid', 'tp', 'swab', 'gmn', 'cerita']",negatif
+888,"['gubernur', 'jatim', 'khofifah', 'positif', 'covid']",negatif
+788,"['mending', 'mikir', 'mikir', 'deh', 'kalender', 'nggak', 'warna', 'merah', 'covid', 'happynewyear', 'bidan']",positif
+221,"['k', 'f', 'ra', 'a', 'iya', 'pmborosan', 'banget', 'mbok', 'yak', 'amal', 'lbih', 'bnyak', 'masyarakat', 'susah', 'dr', 'dampak', 'covid']",negatif
+208,"['resolusi', 'covid', 'ilang', 'soale', 'males', 'nggae', 'masker', 'ngene', 'kuping', 'gatel', 'beib']",positif
+575,"['vaksin', 'covid', 'prioritas', 'perintah', 'atas', 'pandemi']",positif
+1327,"['juta', 'dosis', 'vaksin', 'covid', 'distribusi', 'dunia', 'beritajogja', 'jogja', 'jogjaistimewa']",positif
+493,"['kali', 'rayain', 'covid', 'duit']",negatif
+1250,"['pasien', 'positif', 'covid', 'orang', 'indonesia']",negatif
+63,"['nawakngalam', 'dta', 'covid', 'kota', 'malang', 'jumat', 'januari', 'konfirmasi', 'positif', 'tinggal', 'sembuh', 'pantau']",negatif
+497,"['adiiyulianto', 'nksthi', 'jare', 'sopo', 'covid', 'ndelok', 'plang', 'tutup', 'opo', 'ora', 'jeh']",netral
+289,"['razia', 'masker', 'rangka', 'ops', 'yustisi', 'cegah', 'sebar', 'covid', 'wilayah', 'hukum', 'polsek', 'sukagumiwang', 'jumat', 'tgl', 'januari', 'hasil', 'giat', 'ops', 'yustisi', 'tegur', 'langgar', 'sosial', 'langgar', 'humaspolresindramayu', 'polrilaksanakanopsyustisi']",negatif
+1049,"['bamsae', 'kthxxx', 'kmjnwaifee', 'daegusbro', 'eomaaajisung', 'soowoo', 'haloo', 'perdana', 'butuh', 'batu', 'isi', 'kuesioner', 'kampanye', 'sosial', 'patuh', 'protokol', 'covid', 'oh', 'iya', 'isi', 'survey', 'saldo', 'ovo', 'rb', 'orang', 'menang', 'pilih', 'yaa']",negatif
+303,"['moga', 'harap', 'impi', 'cita', 'cita', 'wujud', 'indonesia', 'lekas', 'pulih', 'pandemi', 'covid', 'jaga', 'sehat', 'terap', 'm', 'selamat']",netral
+44,"['update', 'situasi', 'covid', 'kab', 'klaten', 'sembuh', 'konfirmasi', 'tinggal', 'dunia', 'rilis', 'lengkap', 'akses', 'mari', 'putus', 'mata', 'rantai', 'sebar', 'covid', 'displin', 'm', 'lur', 'humasklaten', 'lawancorona']",positif
+1270,"['new', 'case', 'alert', 'new', 'covid', 'cases', 'confirmed', 'in', 'nepal', 'now', 'total', 'number', 'of', 'covid', 'confirmed', 'cases', 'in', 'nepal', 'reached', 'to']",netral
+1281,"['bajgur', 'wing', 'bar', 'curhat', 'keno', 'covid', 'sakwulan', 'gek', 'entas', 'waras', 'saiki', 'gawe', 'story', 'cangkrukanan', 'ning', 'kafe', 'maneh', 'hhh']",positif
+1144,"['eh', 'kayak', 'brief', 'shooting', 'acara', 'edit', 'tulis', 'shooting', 'covid']",negatif
+239,"['tfortrustme', 'dhisik', 'an', 'karo', 'covid', 'yo']",negatif
+949,"['covid', 'kabupaten', 'magelang', 'tambah', 'data', 'positif', 'aktif', 'total', 'sembuh', 'total', 'tinggal', 'total', 'positif', 'suspek', 'probable', 'jatenggayeng', 'jatengpakaimasker', 'jatenglawancorona']",negatif
+745,"['covid', 'ruined', 'everything', 'i', 'miss', 'my', 'family']",netral
+737,"['polsek', 'wonotirto', 'polres', 'blitar', 'instansi', 'kait', 'aman', 'simpang', 'gawang', 'jalur', 'wisata', 'pantai', 'tambakrejo', 'wisata', 'pantai', 'tambakrejo', 'tutup', 'tanggal', 'desember', 'januari', 'cegah', 'sebar', 'covid', 'libur']",positif
+597,"['presiden', 'joko', 'widodo', 'umum', 'datang', 'juta', 'vaksin', 'covid', 'indonesia', 'jelang', 'tutup', 'vaksin', 'usaha', 'sinovac', 'pesawat', 'garuda', 'indonesia', 'jokowi', 'vaksin', 'covid', 'nolar', 'neverlie']",positif
+1087,"['gubernur', 'jawa', 'timur', 'khofifah', 'nyata', 'positif', 'covid', 'alami', 'gejala', 'pilih', 'jalan', 'isolasi', 'mandiri']",negatif
+1008,"['khofifahip', 'intine', 'ra', 'setress', 'hindar', 'covid', 'sulit']",negatif
+915,"['listriktoday', 'pln', 'lanjut', 'stimulus', 'covid', 'maret', 'perintah', 'putus', 'panjang', 'beri', 'bantu', 'ringan', 'biaya', 'listrik', 'langgan', 'pln', 'kategori', 'rumah', 'tangga', 'daya', 'va', 'va', 'subsidi', 'listrikuntukrakyat']",negatif
+163,"['satgas', 'covid', 'hubung', 'help']",netral
+240,"['mgtnews', 'camat', 'margaasih', 'camat', 'positif', 'covid', 'tinggi', 'kabupaten', 'bandung', 'positif', 'aktif', 'margaasih']",negatif
+1312,"['main', 'main', 'guys', 'covid', 'bahaya', 'tunda', 'liburanya', 'kerumun', 'makan', 'warung', 'mana', 'papar', 'covid', 'dirumahaja']",positif
+254,"['betfury io', 'thanks', 'giveaway', 'i', 'hope', 'i', 'can', 'receive', 'because', 'i', 'm', 'jobless', 'for', 'along', 'time', 'because', 'covid', 'congrats', 'and', 'be', 'great', 'for', 'betfurry', 'sab', 'sandradewi', 'sandiuno']",negatif
+673,"['juta', 'vaksin', 'covid', 'simpan', 'biofarma', 'bandung', 'ridwan', 'kamil', 'jamin']",netral
+906,"['babinsa', 'desa', 'biting', 'koramil', 'sale', 'serda', 'siswanto', 'laksana', 'giat', 'komsos', 'anggota', 'karang', 'taruna', 'desa', 'biting', 'tekan', 'jaga', 'bersih', 'musim', 'hujan', 'jaga', 'protokol', 'sehat', 'masa', 'pandemi', 'covid']",positif
+1229,"['gua', 'pusing', 'banyak', 'tidur', 'jujur', 'covid', 'kek', 'tinggal', 'nunggu', 'gilir']",netral
+724,"['moga', 'indonesia', 'bersih', 'virus', 'covid']",positif
+560,"['nmbe', 'iki', 'raiso', 'libur', 'neng', 'negri', 'goro', 'covid', 'biasane', 'raiso', 'goro', 'ra', 'nduwe', 'duet', 'wkwk', 'anjim']",positif
+549,"['masuk', 'langkah', 'tegap', 'presiden', 'joko', 'widodo', 'jokowi', 'sebut', 'penuh', 'tantang', 'ketidakpastian', 'pandemi', 'global', 'covid', 'ubah', 'tatanan', 'hidup', 'tahun']",netral
+1119,"['ppkm', 'masuk', 'jawa', 'barat', 'wajib', 'tunjuk', 'surat', 'bebas', 'covid']",positif
+872,"['ayukozil', 'nourmarosida', 'pantes', 'sr', 'gen', 'covid', 'mulu']",negatif
+922,"['gubernur', 'khofifah', 'positif', 'papar', 'covid']",negatif
+716,"['covid', 'kambing', 'hitam']",positif
+428,"['waa', 'selamat', 'dulur', 'pasuk', 'titik', 'elinglanwaspada', 'pandemi', 'covid']",negatif
+1275,"['arjuunn', 'hahaha', 'ntar', 'covid', 'dah', 'kelar', 'acara', 'meet', 'and', 'greet', 'dah']",netral
+1315,"['ariefrohman', 'dear', 'ariefrohman', 'mohon', 'mslah', 'prokes', 'tingkat', 'masyrkt', 'blora', 'kluar', 'abai', 'masker', 'jenuh', 'karna', 'pademi', 'pdhal', 'pnting', 'jaga', 'tular', 'virus', 'covid']",positif
+620,"['stev aryanto', 'kilas', 'payload', 'jebule', 'trend', 'covid']",positif
+755,"['varian', 'kopi', 'covid', 'bangzad']",positif
+65,"['sat', 'polair', 'polres', 'jembrana', 'patroli', 'dialogis', 'abk', 'kmp', 'tran', 'jawa', 'disiplin', 'patuh', 'protokol', 'sehat', 'cegah', 'virus', 'covid']",positif
+578,"['masyarakat', 'wajib', 'vaksin', 'covid', 'terima', 'sms', 'kemenkes']",negatif
+1018,"['siaranbolalive', 'apes', 'bener', 'abis', 'cidera', 'lumayan', 'kena', 'covid', 'cepet', 'sembung', 'bang', 'osimhen']",negatif
+342,"['jokowi', 'buka', 'anggar', 'lapor', 'rakyat', 'anggar', 'covid', 'capai', 'ribu', 'triliun', 'korupsi', 'bansos', 'hukum', 'mati']",netral
+542,"['sosialisasi', 'ubah', 'perilaku', 'upaya', 'perintah', 'tekan', 'tular', 'covid', 'berita', 'kini', 'indonesia']",negatif
+184,"['kabar', 'januari', 'vaksinasi', 'covid', 'vaksin']",positif
+796,"['alhamdulillah', 'kumpul', 'keluarga', 'dlm', 'situasi', 'pandemik', 'covid', 'terima', 'kasih', 'allah']",positif
+969,"['tetap', 'sasar', 'laksana', 'vaksinasi', 'covid', 'tetap', 'menteri', 'budi', 'gunadi', 'sadikin', 'desember', 'proses', 'vaksinasi', 'harap', 'laksana', 'keluar', 'emergency', 'use', 'authorization', 'eua', 'badan', 'pom']",positif
+58,"['bima', 'tarung', 'lawan', 'covid', 'to', 'koh', 'agama', 'perintah', 'bangun', 'komunikasi', 'warga', 'paham', 'kait', 'covid']",positif
+432,"['thn', 'gila', 'hidup', 'pandemi', 'sekolah', 'libur', 'postif', 'covid', 'isolasi', 'bener', 'trlupakan']",netral
+933,"['iya', 'vaksin', 'covid', 'udah', 'daftar', 'nunggu', 'gilir', 'panggil', 'deg', 'degan', 'bgt', 'gusti', 'nolak', 'beneran', 'deh']",positif
+1185,"['covid', 'jembot']",negatif
+23,"['covid', 'tingkat', 'serta', 'tes', 'swab', 'rs', 'wisma', 'atlet', 'tingkat', 'inews', 'siang']",negatif
+458,"['eskopisusu', 'gabole', 'entar', 'kena', 'covid', 'nular', 'haha']",negatif
+210,"['langit', 'terima', 'kasih', 'covid']",netral
+115,"['pasien', 'pasien', 'covid', 'ku', 'anjur', 'kumur', 'minum', 'madu', 'sendok', 'makan', 'jam']",positif
+644,"['dianlatri', 'kontra', 'rasa', 'panik', 'nderr', 'temen', 'meja', 'kopi', 'ku', 'udah', 'kena', 'covid', 'byangkan', 'enak', 'ngobrol', 'cium', 'ilang', 'mrka', 'swab', 'positif', 'alhamdulillah', 'rasa', 'gejala', 'minggu', 'positif']",negatif
+43,"['abis', 'taun', 'baru', 'ama', 'temen', 'positif', 'covid', 'abis', 'sumpah', 'nyangka', 'banget', 'gua', 'belah', 'pal', 'pake', 'sumpit', 'bodoamat']",negatif
+579,"['unnesmenfess', 'takut', 'ah', 'covid', 'gin']",netral
+1310,"['yaampun', 'random', 'bgt', 'kmrn', 'sedih', 'covid', 'skrg', 'sedih', 'mkirin', 'chava', 'biru']",netral
+777,"['sambut', 'vaksin', 'covid', 'wargi']",negatif
+808,"['cnnindonesia', 'omnibus', 'law', 'gera', 'oposisi', 'real', 'ria', 'rakyat', 'min', 'pasca', 'milu', 'dpr', 'kebiri', 'partai', 'gera', 'oposisi', 'mati', 'suri', 'rakyat', 'teriak', 'tingkah', 'perintah', 'omnibus', 'law', 'covid', 'oligarki', 'demokrasi', 'nyungsep']",positif
+247,"['awal', 'ketat', 'vaksin', 'covid', 'bandung']",positif
+1164,"['seno bolo', 'liedetectorid', 'muhammededwars', 'divhumas polri', 'ccicpolri', 'nyangka', 'papar', 'covid', 'selaput', 'otak', 'bahaya', 'efek', 'racau', 'sembarang', 'paham', 'fakta']",netral
+1166,"['udah', 'temen', 'baik', 'lebay', 'zaman', 'positif', 'rate', 'mending', 'lebay', 'abai', 'sungguh', 'deh', 'gimana', 'kena', 'takut', 'khawatir', 'positif', 'covid', 'jg', 'tampung', 'sm', 'faskes']",negatif
+1143,"['luviku', 'dilema', 'kasih', 'watir', 'kuat', 'imun', 'sakit', 'bawa', 'tp', 'ngga', 'kasih', 'bebas', 'covid', 'tp', 'efektifitas', 'vaksin', 'tuju', 'kasih']",netral
+843,"['dmn', 'statement', 'rasa', 'udah', 'taun', 'fight', 'covid', 'sehat', 'semuaaaaa']",positif
+780,"['kkcity', 'tanggap', 'lagu', 'rakyat', 'indonesia', 'marah', 'lagu', 'marah', 'jabat', 'korupsi', 'dana', 'bansos', 'marah', 'miss', 'management', 'covid', 'negeri']",positif
+286,"['razia', 'masker', 'rangka', 'ops', 'yustisi', 'cegah', 'sebar', 'covid', 'wilayah', 'hukum', 'polsek', 'sukagumiwang', 'jumat', 'tgl', 'januari', 'hasil', 'giat', 'ops', 'yustisi', 'tegur', 'langgar', 'sosial', 'langgar', 'humaspolresindramayu', 'polrilaksanakanopsyustisi']",netral
+296,"['tiffanymoonmd', 'welcome', 'to', 'year', 'and', 'to', 'rhod', 'happy', 'new', 'year', 'last', 'but', 'not', 'at', 'all', 'least', 'dandrasimmons', 'the', 'end', 'of', 'this', 'year', 'was', 'not', 'good', 'to', 'you', 'at', 'all', 'covid', 'i', 'm', 'glad', 'you', 're', 'back', 'home', 'in', 'time', 'for', 'the', 'season', 'premiere', 'and', 'in', 'time', 'for', 'the', 'new', 'year', 'rest', 'up', 'get', 'well']",positif
+781,"['presiden', 'jokowi', 'vaksinasi', 'covid', 'gelar', 'tengah', 'januari', 'indonesia']",positif
+1128,"['konfirmasi', 'covid', 'tambah', 'orang', 'konfirmasi', 'covid', 'sembuh', 'orang', 'konfirmasi', 'covid', 'tinggal', 'orang', 'suspek', 'tambah', 'orang', 'probable', 'tambah', 'orang']",netral
+81,"['warga', 'kabupaten', 'cirebon', 'konfirmasi', 'positif', 'covid']",negatif
+196,"['covid', 'indonesia', 'refleksi', 'harap']",netral
+447,"['in', 'trump', 's', 'final', 'chapter', 'a', 'failure', 'to', 'rise', 'to', 'the', 'covid', 'moment']",negatif
+339,"['saudara', 'nakes', 'kabar', 'dateng', 'lonjak', 'covid', 'moga', 'hilang', 'deh', 'sakit']",positif
+464,"['pergi', 'libur', 'gara', 'covid', 'gara', 'duit']",positif
+1189,"['hubung', 'turut', 'gk', 'lega', 'gk', 'lanjutin', 'abis', 'thread', 'kali', 'thread', 'alam', 'isolasi', 'rs', 'covid']",negatif
+1233,"['update', 'covid', 'kabupaten', 'magelang', 'sembuh', 'tinggal']",positif
+1289,"['patroli', 'sambang', 'personil', 'sat', 'polair', 'polres', 'jembrana', 'pos', 'gilimanuk', 'binluh', 'pancing', 'security', 'obyek', 'wisata', 'aqua', 'dream', 'land', 'cegah', 'covid']",positif
+1300,"['cerita', 'covid', 'nyata', 'updateblog', 'updateblog']",netral
+743,"['kapolres', 'sragen', 'akbp', 'yuswanto', 'ardi', 's', 'h', 's', 'i', 'k', 'pimpin', 'apel', 'aman', 'malam', 'ganti', 'pandemi', 'covid', 'ikut', 'forkopimda', 'kabupaten', 'sragen', 'an', 'personel', 'gabung', 'tni', 'polri', 'satpol', 'pp', 'dishub']",negatif
+411,"['damping', 'rangka', 'konsultasi', 'rat', 'saat', 'pandemi', 'covid', 'kud', 'mins', 'desember']",positif
+192,"['dioerpanjang', 'subsidi', 'listrik', 'pln', 'stimulus', 'covid']",positif
+553,"['datang', 'vaksin', 'covid', 'sinovac', 'juta', 'bandara', 'soekarno', 'hatta', 'kamis', 'desember', 'langsung', 'simpan', 'bio', 'farma', 'bandung', 'jokowilawanpandemi']",positif
+984,['case'],negatif
+573,"['covid', 'halang']",netral
+1257,"['sat', 'polair', 'polres', 'jembrana', 'himbauan', 'nelayan', 'disiplin', 'prokes', 'putus', 'sebar', 'covid']",negatif
+522,"['makam', 'muladi', 'standart', 'covid']",negatif
+1296,"['edar', 'informasi', 'hoax', 'kait', 'video', 'puluh', 'santri', 'pp', 'nahdatul', 'ulama', 'jember', 'alami', 'racun', 'suntik', 'vaksin', 'covid', 'be', 'smart', 'yo', 'dulur', 'stophoax', 'jatimantihoax', 'jogojawatimur']",negatif
+1022,"['syukur', 'bgt', 'covid', 'is', 'getting', 'better', 'but', 'masuk', 'jam', 'lbih', 'enak']",negatif
+1047,"['jangkit', 'covid', 'giat', 'khofifah', 'padat']",negatif
+270,"['covid', 'taqut', 'hrs']",netral
+316,"['syukur', 'banget', 'nonton', 'sm', 'town', 'jalur', 'covid']",netral
+361,"['selamat', 'selamat', 'moga', 'harap', 'capai', 'capai', 'moga', 'sehat', 'pandemic', 'covid', 'semangatuntukmaju', 'cfishundip', 'divisi', 'humas']",positif
+1287,"['jakarta', 'juta', 'vaksin', 'covid', 'pes', 'perintah', 'presiden', 'joko', 'widodo', 'jokowi']",positif
+613,"['realdonaldtrump', 'fuck', 'the', 'covid', 'death', 'numbers', 'only', 'stock', 'market', 'numbers', 'matter', 'so', 'fucking', 'sad']",positif
+621,"['selamat', 'sambut', 'dirumahaja', 'covid', 'kenyataanhidupmilenial', 'sekolahdirumah', 'bekerjadirumah', 'rumahkuistanaku', 'takterlupakan']",positif
+752,"['himbauan', 'protokol', 'sehat', 'cegah', 'covid', 'gelar', 'polsek', 'jetis', 'polresta', 'yogyakarta', 'kawasan', 'gereja', 'kristen', 'muria', 'indonesia', 'jl', 'tentara', 'zeni', 'bumijo', 'jetis', 'yogyakarta', 'jum', 'at', 'pagi']",positif
+56,"['utang', 'gunung', 'harga', 'mahal', 'positif', 'covid', 'tingkat', 'dana', 'bansos', 'korupsi', 'menteri', 'tangkap', 'bpjs', 'eh', 'diributin', 'ormas']",negatif
+889,"['kapansarjana', 'woi', 'lu', 'lupa', 'covid', 'takut', 'ama', 'influencer', 'hahah']",negatif
+584,"['januari', 'pasien', 'covid', 'rawat', 'inap', 'rsd', 'wisma', 'atlet']",negatif
+903,"['vaksinasi', 'covid', 'januari', 'itb', 'kokbisa', 'gituya', 'jubir', 'resmi', 'kemenkesri', 'klarifikasi', 'vaksinasi', 'covid', 'tenaga', 'sehat', 'masuk', 'prioritas']",positif
+1046,"['benee', 'sg', 'gapernah', 'pake', 'masker', 'anjrit', 'konser', 'mulu', 'lagi', 'covid', 'udah', 'gaada', 'sana']",negatif
+566,"['sehat', 'oda', 'sensei', 'persetan', 'org', 'kena', 'covid', 'etc', 'oda', 'sehat', 'walafiat']",netral
+175,[],netral
+86,"['lahir', 'covid', 'kemarin', 'modal', 'mati']",negatif
+123,"['definisi', 'dengki', 'darah', 'daging', 'wkwk', 'sm', 'konser', 'panas', 'panas', 'diagnosa', 'positif', 'covid', 'wkwk']",negatif
+291,"['lisaamartatara', 'rajin', 'wudhu', 'pakai', 'jilbab', 'mas', 'kena', 'covid', 'kategori', 'laknat', 'allah', 'cumannanya']",negatif
+490,"['daerah', 'jawa', 'barat', 'tetap', 'status', 'genting', 'covid', 'okezone', 'video']",negatif
+526,"['alhamdulillah', 'pilih', 'calon', 'terima', 'vaksinasi', 'covid', 'gratis', 'periode', 'kali', 'nakes', 'anggap']",negatif
+1216,"['ffateha', 'covid', 'or', 'aids', 'positif', 'belakaaaa']",positif
+1325,"['alf kurniadha', 'ajaib', 'keluarga', 'oktober', 'kemarin', 'rumah', 'orang', 'positif', 'covid', 'simbah', 'udah', 'riwayat', 'sakit', 'kuasa', 'allah', 'mbah', 'kakung', 'umur', 'thn', 'sakit', 'sembuh', 'keluarga']",positif
+1155,"['amiliafh', 'sayang', 'covid', 'duit', 'mah', 'gampang', 'v']",netral
+298,"['covid', 'engak', 'tetep', 'mesen', 'sapedah', 'jt', 'covid', 'engak', 'tetep', 'beli', 'jersey', 'sapedah', 'jt', 'sapedahan', 'hungkul', 'covid', 'engak', 'tetep', 'beli', 'gps', 'sapedah', 'jtan', 'inti']",netral
+297,"['iring', 'lalu', 'moga', 'covid']",positif
+1333,"['atur', 'laksana', 'protokol', 'covid', 'mohon', 'wanita', 'haid', 'kenan', 'kloter', 'jam', 'taat', 'atur', 'wilayah', 'bawa', 'air', 'kemas', 'potensi', 'sampah']",positif
+128,"['test', 'positif', 'covid', 'deaths', 'reported', 'friday']",negatif
+351,"['temen', 'sd', 'rumah', 'jarak', 'm', 'kena', 'covid', 'sararieun', 'gin']",negatif
+244,"['cegah', 'sebar', 'covid', 'malam', 'satgas', 'enforce', 'kerumun', 'gelar', 'operasi', 'yustisi']",positif
+430,"['salpriadi', 'kabar', 'buruk', 'hehehe', 'telpon', 'sodara', 'dijawa', 'lg', 'uji', 'kasih', 'sakit', 'positif', 'covid']",negatif
+594,"['awellya', 'covid']",negatif
+220,"['if', 'world', 'getting', 'heal', 'from', 'covid', 'really', 'wish', 'to', 'meet', 'again', 'pledis', 'and', 'if', 'possible', 'could', 'meet', 'bts twt', 'again', 'too', 'dapet', 'kerja', 'nabung', 'ken', 'libur', 'brg', 'dua', 'azizanr', 'taun']",positif
+999,"['fitriaadwp', 'positif', 'covid']",netral
+174,"['a', 'thread', 'hai', 'teman', 'sharing', 'lawan', 'covid']",positif
+1264,"['edar', 'informasi', 'hoax', 'kait', 'video', 'puluh', 'santri', 'pp', 'nahdatul', 'ulama', 'jember', 'alami', 'racun', 'stlh', 'suntik', 'vaksin', 'covid', 'benar', 'video', 'puluh', 'santri', 'alami', 'racun', 'vaksin', 'difteri', 'pd', 'tgl', 'feb', 'be', 'smart', 'yo', 'dulur', 'stophoax']",positif
+353,"['tugas', 'masyarakat', 'kena', 'covid', 'gejala']",negatif
+875,"['edukasi', 'keluarga', 'covid', 'level', 'pergi', 'pakai', 'masker', 'cuci', 'tangan', 'level', 'bandung', 'zona', 'merah', 'lho', 'rs', 'penuh', 'udah', 'atuh', 'piknik', 'level', 'malodar', 'weh', 'anjing', 'teu', 'dibejaan', 'pis']",negatif
+1098,"['minggu', 'persentase', 'sembuh', 'tingkat', 'sembuh', 'pasien', 'covid', 'persentase', 'mati', 'tingkat', 'mati']",negatif
+820,"['selamat', 'pandemi', 'covid', 'landa', 'negara', 'akibat', 'krisis', 'sehat', 'ekonomi', 'dunia', 'bangsa', 'indonesia', 'luput', 'coba', 'mudah', 'pdiperjuangan', 'tahunbaru', 'pdiperjuanganjabar']",positif
+672,"['ternak', 'kelinci', 'untung', 'masa', 'pandemi', 'covid']",positif
+811,"['ken', 'libur', 'seng', 'bener', 'neng', 'gk', 'bayang', 'seng', 'bau', 'covid']",positif
+29,"['hasil', 'lapor', 'dinas', 'sehat', 'kabupaten', 'kota', 'rs', 'rujuk', 'covid', 'diy', 'update', 'jum', 'at', 'januari', 'pkl', 'wib', '', 'total', 'pasien', 'awas', 'pdp', 'orang', 'pantau', 'odp', 'total', 'pasien', 'tersuspek', 'orang']",negatif
+346,"['covid', 'cepetan', 'kelar', 'mo', 'liat', 'anak', 'sm', 'dugem']",negatif
+1249,"['clvrh', 'dicovidkan', 'ngomong', 'covid', 'dipaido', 'luwih', 'milih', 'ekonomi', 'gerak', 'bange', 'mikir', 'covad', 'covid', 'orak', 'obah', 'orak', 'mamah', 'sadar', 'masker', 'tubuh', 'paksa', 'razia', 'hukum']",negatif
+478,"['drdannielle', 'drdannielle', 'for', 'the', 'last', 'months', 'i', 'continue', 'to', 'experience', 'that', 'level', 'of', 'shock', 'anger', 'and', 'outright', 'insanity', 'that', 'you', 'talk', 'about', 'in', 'june', 'i', 'saw', 'that', 'there', 'were', 'many', 'effective', 'early', 'treatments', 'for', 'covid', 'as', 'a', 'high', 'risk', 'patient', 'ivermectin', 'worked', 'for', 'me']",netral
+1074,"['terap', 'disiplin', 'prokes', 'personil', 'sat', 'polair', 'polres', 'jembrana', 'laku', 'penyenprotan', 'desinfektan', 'lingkung', 'ruang', 'kantor', 'cegah', 'covid']",positif
+31,"['bupati', 'gresik', 'positif', 'covid', 'sambar', 'halim', 'rawat', 'surabaya']",negatif
+352,"['kali', 'baru', 'g', 'negri', 'karna', 'covid', 'biasane', 'karna', 'g', 'ndue', 'duek']",negatif
+864,"['sitasisterceria', 'moga', 'istri', 'beliau', 'lekas', 'pulih', 'sehat', 'sedia', 'babygadun', 'org', 'bgt', 'rajin', 'mmbantu', 'orang', 'sedih', 'mndengar', 'istri', 'beliau', 'trkena', 'covid']",netral
+309,"['this', 'sandiaga', 'guy', 'is', 'from', 'pekanbaru', 'where', 'i', 'could', 'have', 'driven', 'padang', 'pekanbaru', 'w', 'my', 'bike', 'w', 'my', 'eyes', 'closed', 'toba', 'begins', 'some', 'one', 'day', 'off', 'drive', 'from', 'both', 'padang', 'and', 'pekanbaru', 'he', 'understands', 'absolutely', 'nothing', 'on', 'the', 'problems', 'now', 'w', 'the', 'covid', 'trap', 'set', 'in', 'which', 'they', 'have', 'fallen']",netral
+1241,"['dengerin', 'nich', 'jokowi', 'covid', 'obat', 'vaksin', 'dr', 'langit', 'akn', 'lumpuh', 'covid', 'selagi', 'rakyat', 'lapar', 'mohon', 'sulusinya', 'kpda', 'bpk', 'prabowo', 'bg', 'fadlizon', 'lupa', 'kpd', 'bpk', 'divhumas polri', 'puspen tni', 'tmksh']",negatif
+1068,"['akun', 'dipake', 'instruksi', 'tes', 'fisik', 'covid', 'bbrpa', 'ktika', 'didatangin', 'tes', 'tes', 'suruh', 'nonton', 'video', 'quiznya', 'selesai', 'ter', 'suspend', 'grabid']",negatif
+261,"['jogja', 'mantappp', 'rame', 'padat', 'sesuai', 'harap', 'covid', 'udah', 'kelarrr']",positif
+70,"['gpovanman', 'marizar', 'nb', 'dr', 'yeadon', 'my', 'authority', 'on', 'the', 'topic', 'has', 'remarked', 'variations', 'on', 'covid', 'seasonal', 'flu', 'basically', 'deaths', 'taking', 'the', 'fig', 's', 'as', 'they', 'are', 'among', 'ctries', 'are', 'a', 'function', 'of', 'how', 'worse', 'than', 'average', 'flu', 's', 'had', 'pruned', 'the', 'fragile', 'population', 'beforehand', 'already', 'as', 'w', 'flu']",negatif
+1313,"['alhamdulillah', 'proses', 'vaksinasi', 'covid', 'tahap', 'wonogiri', 'selesai', 'solopos', 'wonogiri', 'beritawonogiri']",positif
+275,"['kemenkes', 'kirim', 'sms', 'blast', 'kelompok', 'prioritas', 'terima', 'vaksin', 'covid', 'berita', 'kini', 'indonesia']",positif
+953,"['gubernur', 'jatim', 'khofifah', 'indar', 'parawansa', 'positif', 'papar', 'covid']",negatif
+377,"['izin', 'vaksin', 'covid', 'selesai', 'minggu']",positif
+312,"['hadap', 'pandemi', 'covid', 'fraksi', 'pks', 'desak', 'perintah', 'ambil', 'bijak']",positif
+558,"['vaksin', 'covid', 'sinovac', 'distribusi', 'provinsi', 'januari', 'jokowilawanpandemi']",negatif
+756,"['antisipasi', 'varian', 'virus', 'covid', 'perintah', 'putus', 'tutup', 'masuk', 'warga', 'negara', 'asing', 'negara', 'indonesia', 'tanggal', 'januari']",positif
+705,"['kumpul', 'bareng', 'keluarga', 'bahas', 'covid', 'sistem', 'tangan', 'rs', 'pro', 'kontra', 'banyak', 'kontra', 'silent', 'ae', 'nang', 'pojok', 'ngedep', 'marning']",positif
+1193,"['selamat', 'malam', 'link', 'youtube', 'ntk', 'sonjo', 'angkring', 'komunitas', 'tangguh', 'tahan', 'lawan', 'covid', 'nuwun', 'oraanasingkeri', 'orakeri']",negatif
+429,"['global', 'times', 'beijing', 'lidi', 'corona', 'lonjak', 'klaster', 'shunyi', 'wadir', 'cegah', 'sakit', 'kontrol', 'pang', 'xinghuo', 'sebut', 'indonesia', 'sbg', 'sumber', 'klaster', 'kirain', 'ebonk', 'ngutang', 'doank', 'jago']",negatif
+588,"['kali', 'gabisa', 'keliling', 'eropa', 'gara', 'gara', 'covid', 'gabisa', 'keliling', 'eropa', 'gara', 'gara', 'gapunya', 'duit']",negatif
+231,"['syukur', 'bahagia', 'januari', 'bagi', 'nasi', 'gratis', 'jum', 'at', 'barokah', 'covid', 'blm', 'semangat', 'takut', 'kena', 'pasrah', 'lillahi', 'ta', 'ala', 'penting', 'jalan', 'hidup', 'tuk', 'baik', 'trms', 'alumni', 'smpn', 'brebes']",positif
+48,"['klaster', 'covid', 'inti', 'serba', 'titik', 'wes', 'diem', 'o', 'rumah', 'bahaya']",positif
+1304,"['bupati', 'muara', 'enim', 'suntik', 'perdana', 'vaksin', 'covid']",positif
+113,"['giat', 'bhabinbinkamtibmas', 'desa', 'amansari', 'kec', 'rengasdengklok', 'kab', 'karawang', 'aiptu', 'h', 'ayi', 'suparli', 'sambang', 'warga', 'himbauan', 'protokol', 'sehat', 'cegah', 'sebar', 'covid', 'laksana', 'm', 'pakai', 'masker', 'jaga', 'jarak', 'cuci', 'tangan', 'humasreskrw']",positif
+155,"['kena', 'faham', 'kena', 'syarat', 'gera', 'selagi', 'covid', 'ni', 'negara', 'kes', 'turun', 'tingkat', 'so', 'nak', 'complain', 'take', 'care', 'our', 'self', 'and', 'our', 'family', 'follow', 'the', 'sop', 'pray', 'that', 'this', 'virus', 'will', 'go', 'away', 'forever', 'jaga', 'jaga', 'orang']",positif
+839,"['piket', 'koramil', 'weru', 'sertu', 'yanto', 'anggota', 'polsek', 'weru', 'laksana', 'operasi', 'masker', 'rangka', 'hambat', 'cegah', 'kembang', 'virus', 'covid', 'wilayah', 'camat', 'weru']",positif
+799,"['kali', 'negri', 'gara', 'gara', 'covid', 'duit']",positif
+536,"['warm', 'greetings', 'everyone', 'office', 'of', 'international', 'affairs', 'universitas', 'negeri', 'malang', 'um', 'wishes', 'you', 'a', 'happy', 'new', 'year', 'of', 'hope', 'this', 'new', 'year', 'put', 'an', 'end', 'to', 'all', 'struggles', 'due', 'to', 'covid', 'and', 'fill', 'our', 'lives', 'with', 'joy', 'and', 'prosperity', 'stay', 'safe', 'and', 'well']",negatif
+1000,"['gubernur', 'jatim', 'khofifah', 'indar', 'parawansa', 'positif', 'covid']",positif
+651,"['msalah', 'utama', 'pnanganan', 'covid', 'adlh', 'rezim', 'abai', 'persepsi', 'projeksi', 'msyakt', 'rezim', 'galau', 'ekonomi', 'poltik', 'drasa', 'dengar', 'masya', 'dsatu', 'tmpat', 'mrka', 'proyeksikn', 'ktmpat', 'plakuan', 'mis', 'dpasar', 'kampanye', 'mrka', 'mrasa', 'jaga', 'jarak', 'mk', 'mrka', 'pyeksikn', 'tmpat']",netral
+589,"['soniaratri', 'covid', 'deh']",negatif
+1328,"['bupati', 'muara', 'enim', 'suntik', 'perdana', 'vaksin', 'covid']",positif
+1336,"['luncur', 'healthline', 'upaya', 'lindung', 'nakes', 'covid', 'berita', 'kini', 'indonesia']",positif
+481,"['imyourpumpy', 'webarebear nn', 'harap', 'thn', 'teral', 'warung', 'ayam', 'goreng', 'usaha', 'thn', 'wabah', 'covid', 'aegera', 'dlm']",negatif
+198,"['covid', 'indonesia', 'refleksi', 'harap']",netral
+731,"['rannriego', 'cerita', 'mom', 'covid', 'kota', 'mantan', 'boss', 'ttp', 'nekat', 'ngadaij', 'aji', 'kantor', 'duduk', 'dempet', 'an', 'gapake', 'masker', 'kantor', 'positif', 'covcov', 'temen', 'kerja', 'pas', 'cerita', 'nang', 'alesan', 'resign']",positif
+630,"['pandemi', 'covid', 'landa', 'negara', 'akibat', 'krisis', 'sehat', 'ekonomi', 'dunia', 'bangsa', 'indonesia', 'luput', 'coba', 'mudah', 'kawalpresidenjokowi']",positif
+1134,"['jak', 'rasa', 'covid', 'ayo', 'yulian krisma', 'bajinguk']",negatif
+764,"['plot', 'twist', 'kisah', 'jalan', 'tahun', 'corona']",positif
+107,"['terima', 'vaksin', 'covid', 'tahap', 'kirim', 'sms', 'pemberitahuan', 'kemenkes']",positif
+1150,"['pope', 'francis', 'personal', 'doctor', 'fabrizio', 'soccorsi', 'has', 'died', 'as', 'a', 'result', 'of', 'complications', 'due', 'to', 'covid', 'the', 'vatican', 's', 'newspaper', 'l', 'osservatore', 'romano', 'announced']",negatif
+420,"['cek', 'nama', 'daftar', 'vaksinasi', 'covid', 'buka', 'website', 'pedulilindungi']",positif
+1057,"['perintah', 'data', 'tenaga', 'sehat', 'sasar', 'vaksinasi', 'covid']",positif
+1075,"['giat', 'ops', 'yustisi', 'rangka', 'cegah', 'sebar', 'covid', 'tingkat', 'disiplin', 'protokol', 'sehat', 'sesuai', 'inpres', 'no', 'laksana', 'polsek', 'tempur', 'saka', 'bhayangkara', 'pimpin', 'kanit', 'binmas', 'aiptu', 'jajat', 'sudrajat', 'depan', 'kantor', 'polsek', 'tempur']",positif
+1210,"['google', 'form', 'daftar', 'minta', 'layan', 'pcr', 'swab', 'test', 'covid', 'lab', 'home', 'service', 'klinik', 'sepang', 'medika']",positif
+1272,"['polsek', 'karang', 'pilang', 'polrestabes', 'surabaya', 'tegak', 'ops', 'prokes', 'covid', 'lapis', 'masyarakat']",negatif
+218,"['pikir rakyat', 'serba', 'salah', 'tutup', 'covid', 'buka', 'hujan']",netral
+277,"['maaf', 'selamat', 'siang', 'adu', 'layan', 'rs', 'kait', 'pasien', 'covid', 'adu', 'mana', 'pasien', 'rawat', 'salah', 'rs', 'kota', 'semarang', 'terima', 'kasih', 'peduli', 'responnya', 'hendrarprihadi', 'ganjarpranowo', 'dkksemarang', 'ppid dinkessmg', 'infosemarang', 'p', 'mkotasmg']",positif
+1236,"['opo', 'ra', 'moco', 'berita', 'covid']",netral
+344,"['prakarya', 'mudah', 'an', 'covid', 'cepet', 'kelar']",positif
+1083,"['breaking', 'news', 'gubernur', 'jawa', 'timur', 'konfirmasi', 'positif', 'covid', 'terap', 'protokol', 'm', 'jaga', 'sehat', 'lurrr', 'info', 'banyuwangi']",negatif
+909,"['listriktoday', 'pln', 'lanjut', 'stimulus', 'covid', 'maret', 'listrikuntukrakyat']",negatif
+1170,"['pandemi', 'covid', 'milik', 'dimensi', 'multisektor', 'sebab', 'takut', 'gelisah', 'banjir', 'informasi', 'asimetris', 'misleading', 'infodemi']",positif
+503,"['kaya', 'covid', 'sampe', 'taun']",negatif
+243,"['unicef', 'we', 'all', 'hope', 'covid', 'soon', 'passed', 'and', 'the', 'school', 'can', 'return', 'to', 'normal']",positif
+1107,"['selamat', 'pakai', 'masker', 'kontak', 'fisik', 'selamat', 'orang', 'covid', 'polsek', 'parang', 'polres', 'magetan']",negatif
+471,"['dirumahsaja', 'polres', 'probolinggo', 'laksana', 'sekat', 'operasi', 'yustisi', 'protokol', 'sehat', 'rangka', 'cegah', 'sebar', 'covid', 'patuh', 'm', 'pakai', 'masker', 'jaga', 'jarak', 'cuci', 'tangan', 'pakai', 'sabun', 'dukung', 'upaya', 'testing', 'tracing', 'treatment']",negatif
+168,"['pasuk', 'tinggal', 'heboh', 'ormas', 'larang', 'imam', 'besar', 'panjang', 'tahan', 'hadap', 'realitanya', 'ancam', 'pandemi', 'covid', 'derita', 'tingkat']",negatif
+1006,"['update', 'pasien', 'covid', 'kabupaten', 'magelang', 'sembuh', 'tinggal']",negatif
+718,"['bhabinkamtibmas', 'kalurahan', 'patalan', 'bripka', 'fajar', 'prihantoro', 'babinsa', 'fprbpatalan', 'laksana', 'semprot', 'disinfektan', 'cegah', 'sebar', 'covid', 'wilayah', 'kalurahan', 'patalan', 'jetis', 'bantul', 'jumat', 'poldajogja', 'polresbantuldiy']",positif
+1271,"['update', 'situasi', 'covid', 'kab', 'klaten', 'sembuh', 'konfirmasi', 'tinggal', 'dunia', 'rilis', 'kunjung', 'lupa', 'taat', 'protokol', 'sehat', 'lur', 'humasklaten', 'lawancorona']",positif
+374,"['anggota', 'polsek', 'nguntorodi', 'bripka', 'edi', 'wiyanto', 'himbauan', 'warga', 'masyarakat', 'desa', 'pondoksari', 'jaga', 'sehat', 'terap', 'm', 'hindar', 'virus', 'covid', 'jum', 'at']",positif
+711,"['let', 's', 'all', 'gracefully', 'accept', 'our', 'defeat', 'and', 'declare', 'year', 'the', 'winner', 'and', 'end', 'it', 'let', 's', 'welcome', 'with', 'all', 'the', 'positivity', 'we', 'can', 'muster', 'beside', 'covid', 'and', 'prepare', 'for', 'a', 'winning', 'bout', 'happy', 'new', 'year', 'bridgingfuture']",negatif
+54,"['budhihermanto', 'dinamis', 'ketemu', 'jamaah', 'aman', 'tes', 'jumat', 'nggak', 'ketemu', 'dhuhuran', 'maklum', 'alumni', 'covid']",netral
+371,"['sosialisasi', 'ubah', 'perilaku', 'salah', 'upaya', 'perintah', 'tekan', 'tular', 'covid']",positif
+744,"['over', 'k', 'deaths', 'in', 'the', 'covid', 'deaths', 'in', 'the', 'us', 'and', 'now', 'my', 'neighbor', 'is', 'one', 'of', 'them']",negatif
+109,"['bnpb indonesia', 'awat', 'papar', 'virus', 'covid', 'rumah', 'sakit', 'tanggung']",netral
+818,"['urcarmila', 'moga', 'covid', 'cepet', 'kelar', 'masuk', 'sekolah']",negatif
+538,"['sedih', 'bgt', 'om', 'ku', 'udh', 'tanda', 'tanda', 'covid', 'panas', 'nafas', 'ngos', 'ngosan', 'sek', 'smpe', 'nyium', 'bawang']",negatif
+1285,"['panas', 'dikit', 'udah', 'gejala', 'covid', 'yaudah', 'coba', 'ngertiin', 'temennya', 'sakit', 'milih', 'gamau', 'usaha', 'ngejaga', 'blm', 'bukti', 'positif']",positif
+714,"['anjay', 'daftar', 'kena', 'vaksin', 'covid']",positif
