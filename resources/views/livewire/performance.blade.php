@@ -147,7 +147,7 @@
     </div>
     <div class="w-full mt-10">
         <p class="text-xl pb-3 flex items-center">
-            <i class="fas fa-list mr-3"></i> Sample Data Training
+            <i class="fas fa-list mr-3"></i> Sample Dataset
         </p>
         <div class="bg-white overflow-auto">
             <table class="min-w-full bg-white">
@@ -159,61 +159,24 @@
                     </tr>
                 </thead>
                 <tbody class="text-gray-700">
-                    @foreach($training_samples['result'] as $key => $training)
+                    @foreach($data_samples['result'] as $key => $data)
                     <tr class="{{ ($key % 2) == 0 ? 'bg-gray-200' : '' }}">
-                        <td class="text-left py-3 px-4">{{ $training[0] }}</td>
-                        <td class="text-left py-3 px-4">{{ $training[1] }}</td>
-                        <td class="text-left py-3 px-4">{{ $training[2] }}</td>
+                        <td class="text-left py-3 px-4">{{ $data[0] }}</td>
+                        <td class="text-left py-3 px-4">{{ $data[1] }}</td>
+                        <td class="text-left py-3 px-4">{{ $data[2] }}</td>
                     </tr>
                     @endforeach
                 </tbody>
             </table>
             <ul class="flex justify-center my-4 space-x-3">
-                @if($training_page > 1)
+                @if($data_page > 1)
                 <li>
-                    <button wire:click.prevent="pagination('training',-1)" title="« Previous" class="flex items-center px-4 py-2 space-x-3 text-gray-600 transition-colors duration-200 transform border rounded-lg dark:text-gray-200 dark:border-gray-200 hover:bg-gray-100 dark:hover:bg-gray-700 focus:outline-none">« Previous</button>
+                    <button wire:click.prevent="pagination(-1)" title="« Previous" class="flex items-center px-4 py-2 space-x-3 text-gray-600 transition-colors duration-200 transform border rounded-lg dark:text-gray-200 dark:border-gray-200 hover:bg-gray-100 dark:hover:bg-gray-700 focus:outline-none">« Previous</button>
                 </li>
                 @endif
-                @if($training_page != $total_training_page)
+                @if($data_page != $total_data_page)
                 <li>
-                    <button wire:click.prevent="pagination('training',1)" title="Next »" class="flex items-center px-4 py-2 space-x-3 text-gray-600 transition-colors duration-200 transform border rounded-lg dark:text-gray-200 dark:border-gray-200 hover:bg-gray-100 dark:hover:bg-gray-700 focus:outline-none">Next »</button>
-                </li>
-                @endif
-            </ul>
-        </div>
-    </div>
-    <div class="w-full mt-10">
-        <p class="text-xl pb-3 flex items-center">
-            <i class="fas fa-list mr-3"></i> Sample Data Testing
-        </p>
-        <div class="bg-white overflow-auto">
-            <table class="min-w-full bg-white">
-                <thead class="bg-gray-800 text-white">
-                    <tr>
-                        <th class="text-left py-3 px-4 uppercase font-semibold text-sm">Teks</th>
-                        <th class="text-left py-3 px-4 uppercase font-semibold text-sm">Setelah Preprocessing</th>
-                        <th class="text-left py-3 px-4 uppercase font-semibold text-sm">Label</th>
-                    </tr>
-                </thead>
-                <tbody class="text-gray-700">
-                    @foreach($testing_samples['result'] as $key => $testing)
-                    <tr class="{{ ($key % 2) == 0 ? 'bg-gray-200' : '' }}">
-                        <td class="text-left py-3 px-4">{{ $testing[0] }}</td>
-                        <td class="text-left py-3 px-4">{{ $testing[1] }}</td>
-                        <td class="text-left py-3 px-4">{{ $testing[2] }}</td>
-                    </tr>
-                    @endforeach
-                </tbody>
-            </table>
-            <ul class="flex justify-center my-4 space-x-3">
-                @if($testing_page > 1)
-                <li>
-                    <button wire:click.prevent="pagination('testing',-1)" title="« Previous" class="flex items-center px-4 py-2 space-x-3 text-gray-600 transition-colors duration-200 transform border rounded-lg dark:text-gray-200 dark:border-gray-200 hover:bg-gray-100 dark:hover:bg-gray-700 focus:outline-none">« Previous</button>
-                </li>
-                @endif
-                @if($testing_page != $total_testing_page)
-                <li>
-                    <button wire:click.prevent="pagination('testing',1)" title="Next »" class="flex items-center px-4 py-2 space-x-3 text-gray-600 transition-colors duration-200 transform border rounded-lg dark:text-gray-200 dark:border-gray-200 hover:bg-gray-100 dark:hover:bg-gray-700 focus:outline-none">Next »</button>
+                    <button wire:click.prevent="pagination(1)" title="Next »" class="flex items-center px-4 py-2 space-x-3 text-gray-600 transition-colors duration-200 transform border rounded-lg dark:text-gray-200 dark:border-gray-200 hover:bg-gray-100 dark:hover:bg-gray-700 focus:outline-none">Next »</button>
                 </li>
                 @endif
             </ul>
