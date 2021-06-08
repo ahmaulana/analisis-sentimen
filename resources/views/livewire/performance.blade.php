@@ -182,4 +182,30 @@
             </ul>
         </div>
     </div>
+
+    <div class="w-full mt-10">
+        <p class="text-xl pb-3 flex items-center">
+            <i class="fas fa-list mr-3"></i> Word Cloud
+        </p>
+        <div class="bg-white p-4">
+            <div class="p-4">
+                <p class="text-xl pb-2 text-center font-bold">
+                    Sentimen Positif
+                </p>
+                <img class="object-contain mx-auto w-1/2 md:object-scale-down" src="{{ asset('image/word_positif.png') }}">
+            </div>
+            <div class="p-4">
+                <p class="text-xl pb-2 text-center font-bold">
+                    Sentimen Negatif
+                </p>
+                <img class="object-contain mx-auto w-1/2 md:object-scale-down" src="{{ asset('image/word_negatif.png') }}">
+            </div>
+            <div class="p-4">
+                <p class="text-xl pb-2 text-center font-bold">
+                    Sentimen Netral
+                </p>
+                <img class="object-contain mx-auto w-1/2 md:object-scale-down" src="{{ asset('image/word_netral.png') }}">
+            </div>
+        </div>
+    </div>
 </div>
